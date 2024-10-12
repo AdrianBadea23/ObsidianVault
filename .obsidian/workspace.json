@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6f5e26f65c93dd43",
+        "id": "b0b595ed1977e737",
         "type": "tabs",
         "children": [
           {
-            "id": "e8784d886fca7ca8",
+            "id": "e41badf207832089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Network Programming/Chapter 2/Sockets.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bb485d258ebb4cf0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dec02734c1d9f33a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -83,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "80ac0fdce6597f01",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Network Programming/Chapter 2/Sockets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Network Programming/Chapter 2/Sockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Network Programming/Chapter 2/Sockets.md"
               }
             }
           }
@@ -160,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8784d886fca7ca8",
+  "active": "e41badf207832089",
   "lastOpenFiles": [
+    "Pasted image 20241012140352.png",
+    "create a link.md",
+    "Network Programming/Chapter 2/Sockets.md",
+    "Network Programming/Chapter 2",
+    "Network Programming",
     "Welcome.md"
   ]
 }
